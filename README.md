@@ -1,7 +1,7 @@
 This file represents the initial prototype or experimental version of the system developed before the final release.
-# NOTE : This file contains describtion for DDH and Lower-Extrimety Fracture.
+# NOTE : This file contains describtion for DDH and Lower-Extremity Fracture.
 
-# First Model : Lower-Extrimety Fracture .
+# First Model : Lower-Extremity Fracture .
 What does it contain?
 
 1. Environment Preparation
