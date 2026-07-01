@@ -1,4 +1,6 @@
 This file represents the initial prototype or experimental version of the system developed before the final release.
+# NOTE : This link for the web to upload and take prediction from https://aishaalfaori-medray-ai.hf.space/
+
 # NOTE : This file contains describtion for DDH and Lower-Extremity Fracture.
 
 # First Model : Lower-Extremity Fracture .
